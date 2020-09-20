@@ -1,3 +1,30 @@
+Create a web app using,
+react - front end
+deno - back end
+mysql - DB engine 
+
+modules to be build
+simple register - login
+update profile page
+article CRUD 
+
+Enhancement 
+image upload, 
+gallery view 
+loader 
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
